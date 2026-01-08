@@ -1,2 +1,3 @@
 # crud-task-manager
-API REST para gerenciamento de tarefas, desenvolvida com C# e ASP.NET Core. O projeto implementa um CRUD completo, permitindo criar, listar, atualizar, excluir e marcar tarefas como concluídas, com foco em boas práticas, organização de código e aprendizado prático em desenvolvimento backend.
+Aplicação de console desenvolvida em C# para gerenciamento de tarefas, com operações de CRUD e persistência de dados em MySQL.
+O projeto foi criado com foco no aprendizado de lógica de programação, orientação a objetos, uso de SQL e integração direta entre C# e banco de dados relacional, sem uso de frameworks.
