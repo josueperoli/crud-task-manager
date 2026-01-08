@@ -1,0 +1,14 @@
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\bin\Debug\net9.0\TaskManager.Console.exe
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\bin\Debug\net9.0\TaskManager.Console.deps.json
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\bin\Debug\net9.0\TaskManager.Console.runtimeconfig.json
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\bin\Debug\net9.0\TaskManager.Console.dll
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\bin\Debug\net9.0\TaskManager.Console.pdb
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.AssemblyInfo.cs
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.dll
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\refint\TaskManager.Console.dll
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.pdb
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\TaskManager.Console.genruntimeconfig.cache
+C:\Users\josue\Desktop\crud-task-manager\TaskManager.Console\obj\Debug\net9.0\ref\TaskManager.Console.dll
